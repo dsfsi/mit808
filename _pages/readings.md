@@ -4,17 +4,16 @@ title: Readings
 permalink: /readings/
 ---
 
-For this class, a number of readings are used to reinforce concepts
+For this class, a number of readings are used to reinforce concepts or encourage debate.
 
 ## Papers
 
-* For 2018 and 2019 we used the best papers from the KDD conference.
-
+* Coming Soon
 
 ## Snippets
 
-* TBC
+* Coming Soon
 
 ## Video
 
-* Et Plagieringseventyr, University of Bergen UiB [URL](https://www.youtube.com/watch?v=Mwbw9KF-ACY) - Plagiarism
+* Coming Soon
