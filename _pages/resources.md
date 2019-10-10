@@ -10,7 +10,7 @@ These are resources from the class.
 
 *Note*: Slides are provided unde Creative Commons 4.0 Share-Alike. You are encouraged to make comments on the slides so that they can be improved.
 
-* Dark Text Arts? [Coming Soon]
+* Dark Text Arts? [Google Drive - Comments Open](https://docs.google.com/presentation/d/1ParrQZ9BNocD4Jy7SGHOoAxXua8gHxc3zKmnsyqoEFs/edit?usp=sharing)
 * Quick Introduction to Natural Language [Google Drive - Comments Open](https://docs.google.com/presentation/d/1eG_JgbdhJQvshfG1fSQ0ZFItVw_RDpm4HDfXSqYcJKI/edit?usp=sharing)
 * Word Embeddings + Language Models
 [Google Drive - Comments Open](https://docs.google.com/presentation/d/1nKtj1UX5fllo0LW6_jH3lahWoJV_ERt97RgAPJ-pkuI/edit?usp=sharing)
