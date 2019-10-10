@@ -6,9 +6,8 @@ permalink: /about/
 
 ## Class Information
 
-This class introduces research methodologies applicable to the Data Science field as preparation for the capstone project and mini dissertation for the MIT in Big Data Science at the University of Pretoria.
+In this module students will develop Natural Language Processing techniques to be able to take on cyber safety challenges. Namely we will be looking at both challenges in disinformation online, author deception and predators on chat platforms. This course utilises challenge driven approach to learn about the state of the art of natural language processing.
 
 ## Outcomes
 
-Learning how to conduct research is important. It will take into account constructing clear problem definitions. A solid research context and limitations. A sound methodology that will allow for analysis to support ones findings. These are skills that are valuable in any modern Data Scientists toolbelt.
-
+Text is the most abundant and unstructured data that we have on the planet. Learning how to work and process text. This module will impart skills in dealing with text data, using machine learning models with text and how to develop state of the art approaches to tackle cyber safety challenges. We will utilize industry and research standard Python NLP and ML frameworks to tackle this course.
