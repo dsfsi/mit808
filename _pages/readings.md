@@ -16,11 +16,10 @@ For this class, a number of readings are used to reinforce concepts or encourage
 
 ## Papers
 
-* Coming Soon
-
-## Snippets
-
-* Coming Soon
+* Fake News Detection on Social Media: A Data Mining Perspective [arxiv](https://arxiv.org/pdf/1708.01967.pdf)
+* Hate Speech Detection: A Solved Problem? The Challenging Case of Long Tail on Twitter [arxiv](https://arxiv.org/pdf/1803.03662.pdf)
+* Automatic Detection of Cyberbullying in Social Media Text [arxiv](https://arxiv.org/pdf/1801.05617.pdf)
+* Automatic Rumor Detection on Microblogs: A Survey [arxiv](https://arxiv.org/pdf/1807.03505.pdf)
 
 ## Video
 
