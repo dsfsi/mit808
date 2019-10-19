@@ -24,6 +24,24 @@ These are resources from the class.
 
 * 
 
-## Other Classes
+## DataSets
+
+### Misinformation/Disinformation
+
+* [Credibility Corpus with several datasets (Twitter, Web database) in French and English](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english/)
+* [Fake News Challenge](https://github.com/FakeNewsChallenge/fnc-1)
+* [Fake News](https://www.kaggle.com/c/fake-news/data)
+* [Hyperpartisan News Detection](https://pan.webis.de/semeval19/semeval19-web/)
+* [RumourEval](https://competitions.codalab.org/competitions/19938)
+
+### Hate Speech
+* [Multilingual detection of hate speech against immigrants and women in Twitter (hatEval) - https://competitions.codalab.org/competitions/19935#learn_the_details
+* [OffensEval: Identifying and Categorizing Offensive Language in Social Media](https://competitions.codalab.org/competitions/20011)
+* [HateSpeech](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
+
+### Wildcard
+* [Real411](https://www.real411.org/complaints)
+
+## Other Classes/Courses
 
 * 
