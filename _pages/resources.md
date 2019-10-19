@@ -35,7 +35,7 @@ These are resources from the class.
 * [RumourEval](https://competitions.codalab.org/competitions/19938)
 
 ### Hate Speech
-* [Multilingual detection of hate speech against immigrants and women in Twitter (hatEval) - https://competitions.codalab.org/competitions/19935#learn_the_details
+* [Multilingual detection of hate speech against immigrants and women in Twitter (hatEval)](https://competitions.codalab.org/competitions/19935#learn_the_details)
 * [OffensEval: Identifying and Categorizing Offensive Language in Social Media](https://competitions.codalab.org/competitions/20011)
 * [HateSpeech](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
 
