@@ -20,9 +20,6 @@ These are resources from the class.
 * “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 
-## Books
-
-* 
 
 ## DataSets
 
@@ -44,4 +41,7 @@ These are resources from the class.
 
 ## Other Classes/Courses
 
-* 
+* Natural Language Processing with Deep Learning <> C Manning - [URL](http://web.stanford.edu/class/cs224n/)
+* Ethical NLP <> E Bender [URL](https://faculty.washington.edu/ebender/2017_575/)
+* Computational Ethics for NLP <> Y Tsvetkov, AW Black [URL](http://demo.clab.cs.cmu.edu/ethical_nlp2019/)
+* Advanced Computational Linguistics <> G Hirst [URL](http://www.cs.toronto.edu/~gh/2528/)
