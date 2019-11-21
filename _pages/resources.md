@@ -19,6 +19,7 @@ These are resources from the class.
 
 * “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
+* Developing Language Annotation for Machine Learning Algorithms - Marie Meteer [URL](https://www.cs.brandeis.edu/~cs140b/CS140b_slides/NLAML_CS140b-2015.pdf)
 
 
 ## DataSets
