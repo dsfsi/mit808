@@ -8,6 +8,7 @@ For this class, a number of readings are used to reinforce concepts or encourage
 
 ## Good to read (Online and Books)
 
+* Speech and Language Processing (3rd ed. draft) *Dan Jurafsky and James H. Martin* [URL](https://web.stanford.edu/~jurafsky/slp3/)
 * Machine Learning for Humans: Demystifying artificial intelligence & machine learning [URL](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) [ML]
 * Interpretable Machine Learning: A Guide for Making Black Box Models Explainable. *Christoph Molnar* [URL](https://christophm.github.io/interpretable-ml-book/) [ML]
 * Natural Language Processing with Python. *Steven Bird, Ewan Klein, and Edward Loper* [URL](http://www.nltk.org/) [NLP]
@@ -24,3 +25,4 @@ For this class, a number of readings are used to reinforce concepts or encourage
 ## Video
 
 * What is Natural Language Processing? *Rachel Thomas* [URL](http://www.youtube.com/watch?v=cce8ntxP_XI) [NLP]
+* A Code-First Introduction to Natural Language Processing *fast.ai* [URL](https://www.fast.ai/2019/07/08/fastai-nlp/)
