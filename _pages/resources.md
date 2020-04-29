@@ -19,3 +19,7 @@ TBA
 
 * “How to do good research, get it published in SIGKDD and get it cited!”, Eamonn Keogh,  SIGKDD 2009 Tutorial. [URL](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - Zachary C. Lipton [URL](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
+
+## Other courses
+
+* The Missing Semester of Your CS Education [URL](https://missing.csail.mit.edu/)
