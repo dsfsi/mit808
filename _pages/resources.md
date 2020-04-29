@@ -9,6 +9,11 @@ These are resources from the class.
 
 *Note*: Slides are provided under [Creative Commons 4.0 Share-Alike](https://creativecommons.org/licenses/by-sa/4.0/). You are encouraged to make comments on the slides so that they can be improved.
 
+TBA
+
+## Video
+
+* Lessons learned from practicing and teaching data science in Latin America - John Alexis Guerra Gómez [URL](https://pml4dc.github.io/iclr2020/program/pml4dc_2.html)
 
 ## Presentations/Readings from other Researchers
 
