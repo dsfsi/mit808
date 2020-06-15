@@ -8,4 +8,4 @@ permalink: /projects/
 
 ### 2020
 
-TBA
+See [exhibition website](https://up-mitc-ds.github.io/808exhibition2020/)
