@@ -6,12 +6,21 @@ permalink: /about/
 
 ## Class Information
 
-This module provides the opportunity to students for demonstrating the application of the theoretical Big Data Science knowledge gained in the core part of this degree. Students are expected to identify and work with a collaborator who is taking ownership for the project. This collaborator can either be an industry partner or a researcher within one of the participating departments. Projects will be based on the entire big data lifecycle as discussed in this degree programme. This includes the gathering of data of a significant size as well as a final technical report describing the process followed and the deliverables.
+This module provides the opportunity for students to apply the theoretical Big Data Science knowledge gained in the core part of this degree. The course involves a blend of lectures and practical group assignments.
+
+Students are expected to identify and work with a collaborator who takes ownership of the project. This collaborator can be an industry partner or a researcher within one of the participating departments. Projects are based on the entire big data lifecycle, including data gathering, analysis, and a final technical report.
 
 ## Outcomes
 
-This module combines 1st year modules of the MIT C program into practice through a Data Science project. After successful completion of this module, the student will:
+This module combines first-year modules of the MIT program into practice through a Data Science project. After successful completion of this module, students will be able to:
 
-* Able to break down the entire data science life cycle of a project
-* Work with a project partner
-* Deliver a Data Science solution
+*   Break down the entire data science life cycle of a project
+*   Work effectively with a project partner
+*   Deliver a complete Data Science solution
+
+## Instructors
+
+The module has been taught by the following instructors since 2020:
+
+*   **Prof. Vukosi Marivate:** Vukosi has a background in Machine Learning and Artificial Intelligence and is interested in the role of Data Science in Society.
+*   **Dr. Abiodun Modupe:** Abiodun is interested in the confluence of artificial intelligence for natural language processing and speech recognition.
