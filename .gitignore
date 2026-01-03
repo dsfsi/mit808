@@ -11,3 +11,5 @@ package.json
 *.gem
 *.gemspec
 .jekyll-cache
+CLAUDE.md
+GEMINI.md
